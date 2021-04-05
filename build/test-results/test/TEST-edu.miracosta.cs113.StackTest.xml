@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.miracosta.cs113.StackTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-04-05T04:58:59" hostname="DEETZBASE" time="0.003">
+  <properties/>
+  <testcase name="testPeekError" classname="edu.miracosta.cs113.StackTest" time="0.001"/>
+  <testcase name="testEmpty" classname="edu.miracosta.cs113.StackTest" time="0.001"/>
+  <testcase name="testPopMany" classname="edu.miracosta.cs113.StackTest" time="0.0"/>
+  <testcase name="testPopOnce" classname="edu.miracosta.cs113.StackTest" time="0.0"/>
+  <testcase name="testPushAndNotEmpty" classname="edu.miracosta.cs113.StackTest" time="0.0"/>
+  <testcase name="testPopError" classname="edu.miracosta.cs113.StackTest" time="0.0"/>
+  <testcase name="testPushAndPeekMany" classname="edu.miracosta.cs113.StackTest" time="0.001"/>
+  <testcase name="testPushAndPeekOnce" classname="edu.miracosta.cs113.StackTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
