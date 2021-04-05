@@ -42,7 +42,7 @@ public class PalindromeTest {
      */
     private boolean isPalindrome(String s) {
 
-        // TODO:
+        // DONETODO:
         // Implement this method body using your ArrayListStack. Be mindful of your algorithm!
         if (s == null)
             throw new IllegalArgumentException() ;
